@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hcker1111
-- 👀 I’m interested in Brute forcw attack
+- 👀 I’m interested in Brute force attack
 - 🌱 I’m currently learning Brute force attack, I need help
 - 💞️ I’m looking to collaborate on brute force attack 
 - 📫 How to reach me ...
